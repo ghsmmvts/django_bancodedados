@@ -1,0 +1,5 @@
+
+venv
+.vscode/
+proj/proj/_pycache_
+proj/db.sqlite3a
